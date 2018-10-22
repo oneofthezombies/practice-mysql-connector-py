@@ -24,3 +24,4 @@ mycursor = mydb.cursor()
 #mycursor.execute("RENAME TABLE topic TO topic_backup")
 #mycursor.execute("SELECT * FROM topic LEFT JOIN author ON topic.author_id = author.id")
 #mycursor.execute("SELECT topic.id, title, description, created, name, profile FROM topic LEFT JOIN author ON topic.author_id = author.id")
+#
